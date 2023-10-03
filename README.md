@@ -1,3 +1,13 @@
+<div class="linear-container">
+    <div class="credit" id="linear2" style="display: flex; align-items: center; padding: 8px; background-image: url('file:///android_asset/kbvip'); background-size: cover; background-color: #000000; background-position: left center;">
+        <img src="" style="width: 70px; height: 70px; object-fit: cover; border-radius: 50%;">
+        <div>
+            <h3 style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); -webkit-text-stroke-width: 1px; font-size: 20px; color: #FFFFFF; margin: 0;">Koshur Boii</h3>
+            <p style="color: #FFFFFF; margin: 0;">koshurboii</p>
+        </div>
+    </div>
+</div>
+
 # 💫 About Me:
 💻 - Android App Developer<br>📱 - Ui × UX Designer<br>📽 - Part Time Editor<br>💌 - Profile Manager<br>🧰 - Modder<br>🧠 - Keen Learner<br>🎓 - Tech | Tools | App<br><br>💫 - IG || TG : @koshurboii
 
