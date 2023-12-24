@@ -1,5 +1,15 @@
 # 💫 About Me:
-💻 - Android App Developer<br>📱 - Ui × UX Designer<br>📽 - Part Time Editor<br>💌 - Profile Manager<br>🧰 - Modder<br>🧠 - Keen Learner<br>🎓 - Tech | Tools | App<br><br>💫 - IG || TG : @koshurboii
+Hello, I'm Abrar, an enthusiastic Android app developer deeply immersed in the world of Sketchware Pro. My passion lies in crafting seamless user experiences and sleek interfaces while weaving a tapestry of AI intelligence and robust logic. Here's what I bring to the table:
+
+Android App Development: Proficient in Sketchware Pro, harnessing AI intelligently for innovative and user-friendly applications.
+UI/UX Design: Merging AI-backed intuitive interfaces with engaging user experiences, elevating app functionality to new heights.
+My journey encompasses:
+
+Developer: Crafting robust and innovative Android apps, leveraging the power of Sketchware Pro and AI for top-notch functionality and design.
+UI/UX Designer: Implementing AI-infused, user-centric design principles to create visually appealing and intuitive interfaces for an unparalleled user experience.
+Additionally, my expertise extends to safeguarding apps through reverse engineering insights, ensuring your creations remain secure. I excel in building logic structures that fortify app functionality and security.
+
+Beyond my professional endeavors, I'm constantly refining my skills and keeping pace with tech trends. Let's connect and explore how my fusion of AI, reverse engineering insights, and logic building expertise can elevate your app development goals!
 
 
 ## 🌐 Socials:
