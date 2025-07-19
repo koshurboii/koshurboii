@@ -18,7 +18,7 @@ I specialize in crafting **scalable**, **high-performance**, and **secure** appl
 - Continuously explore new tools and emerging tech
 
 ### 🌟 Featured Project
-🔗 **[Device Linker Bot]([https://t.me/devicelinker_bot)**  
+🔗 **[Device Linker Bot](https://t.me/devicelinker_bot)** <br>
 📁 [Device Linker Repo](https://github.com/koshurboii/Device-Linker)  
 Securely connect and sync data across devices in real time — a practical, innovative solution for cross-device communication using modern web technologies.
 
